@@ -3,7 +3,7 @@ Dashboard interaktif untuk menganalisis pola polusi PM2.5 dan faktor meteorologi
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.11
 conda activate main-ds
 pip install -r requirements.txt
 ```
