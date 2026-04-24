@@ -469,4 +469,4 @@ with st.expander("View Raw Data"):
 # ==================== FOOTER ====================
 
 st.markdown("---")
-st.caption('Copyright © 2024 | Air Quality Analysis Dashboard | Data: https://github.com/marceloreis/HTI/tree/master')
+st.caption('Copyright © 2026 | Air Quality Analysis Dashboard | Data Source: https://github.com/marceloreis/HTI/tree/master')
